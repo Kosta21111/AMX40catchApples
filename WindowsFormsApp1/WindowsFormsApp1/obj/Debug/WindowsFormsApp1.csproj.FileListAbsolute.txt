@@ -1,0 +1,111 @@
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Яблоки (Update 1.2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

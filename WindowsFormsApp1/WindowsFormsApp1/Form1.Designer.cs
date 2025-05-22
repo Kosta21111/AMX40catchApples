@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -149,11 +150,44 @@
             this.button10.Text = "10";
             this.button10.UseVisualStyleBackColor = true;
             this.button10.Click += new System.EventHandler(this.button10_Click);
+=======
+            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.gameTimer = new System.Windows.Forms.Timer(this.components);
+            this.scoreLabel = new System.Windows.Forms.Label();
+            this.player = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.player)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // gameTimer
+            // 
+            this.gameTimer.Tick += new System.EventHandler(this.gameTimer_Tick);
+            // 
+            // scoreLabel
+            // 
+            this.scoreLabel.AutoSize = true;
+            this.scoreLabel.Location = new System.Drawing.Point(687, 35);
+            this.scoreLabel.Name = "scoreLabel";
+            this.scoreLabel.Size = new System.Drawing.Size(44, 16);
+            this.scoreLabel.TabIndex = 0;
+            this.scoreLabel.Text = "label1";
+            // 
+            // player
+            // 
+            this.player.Image = ((System.Drawing.Image)(resources.GetObject("player.Image")));
+            this.player.Location = new System.Drawing.Point(709, 758);
+            this.player.Name = "player";
+            this.player.Size = new System.Drawing.Size(316, 168);
+            this.player.TabIndex = 1;
+            this.player.TabStop = false;
+            this.player.Click += new System.EventHandler(this.player_Click);
+>>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(654, 475);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button9);
@@ -169,12 +203,24 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
+=======
+            this.ClientSize = new System.Drawing.Size(1924, 1055);
+            this.Controls.Add(this.player);
+            this.Controls.Add(this.scoreLabel);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+>>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241
 
         }
 
         #endregion
 
         private System.Windows.Forms.Timer gameTimer;
+<<<<<<< HEAD
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
@@ -185,6 +231,10 @@
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
         private System.Windows.Forms.Button button10;
+=======
+        private System.Windows.Forms.Label scoreLabel;
+        private System.Windows.Forms.PictureBox player;
+>>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241
     }
 }
 

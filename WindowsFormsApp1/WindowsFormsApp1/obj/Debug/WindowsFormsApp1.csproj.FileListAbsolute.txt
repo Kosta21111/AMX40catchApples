@@ -8,6 +8,7 @@ C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+<<<<<<< HEAD
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
@@ -109,3 +110,5 @@ C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\Win
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+>>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241

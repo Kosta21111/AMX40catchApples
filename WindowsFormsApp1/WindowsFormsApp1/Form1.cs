@@ -17,6 +17,7 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
+<<<<<<< HEAD
         int[] randomizer = new int[10] { 20, 18, 18, 20, 17, 20, 20, 25, 8, 18 };
         int[] speed = new int[10] { 5, 6, 8, 10, 10, 12, 17, 20, 11, 20 };
         int[] time_left = new int[10] { 80, 80, 100, 120, 150, 180, 180, 180, 180, 180 };
@@ -86,6 +87,74 @@ namespace WindowsFormsApp1
         {
             Form2 form = new Form2(level[9], frequence_bombs[9], bombs[9], randomizer[9], speed[9], time_left[9]);
             form.Show();
+=======
+        private int score = 0;
+        private Random random = new Random();
+        private int gravity = 5; // Скорость падения яблок
+        private List<PictureBox> apples = new List<PictureBox>();
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            gameTimer.Start();
+            this.KeyDown += new KeyEventHandler(KeyIsDown);
+            this.DoubleBuffered = true; // Уменьшает мерцание
+        }
+
+        private void SpawnApple()
+        {
+            var apple = new PictureBox
+            {
+                Size = new Size(26, 27),
+                BackColor = Color.Red,
+                Location = new Point(random.Next(0, this.ClientSize.Width - 26), 0),
+                
+            };
+            apple.Image = System.Drawing.Image.FromFile($"Арбуз1.jpg");
+            apples.Add(apple);
+            this.Controls.Add(apple);
+        }
+
+        private void KeyIsDown(object sender, KeyEventArgs e)
+        {
+            // Движение корзины влево-вправо
+            if (e.KeyCode == Keys.Left && player.Left > 0)
+                player.Left -= 20;
+            if (e.KeyCode == Keys.Right && player.Right < this.ClientSize.Width)
+                player.Left += 20;
+        }
+
+        private void gameTimer_Tick(object sender, EventArgs e)
+        {
+            // Случайное появление яблок
+            if (random.Next(0, 20) == 1)
+                SpawnApple();
+
+            // Движение яблок вниз
+            foreach (var apple in apples.ToList())
+            {
+                apple.Top += gravity;
+
+                // Если яблоко упало за экран — удаляем
+                if (apple.Top > this.ClientSize.Height)
+                {
+                    apples.Remove(apple);
+                    this.Controls.Remove(apple);
+                }
+                // Если игрок поймал яблоко
+                else if (apple.Bounds.IntersectsWith(player.Bounds))
+                {
+                    score++;
+                    scoreLabel.Text = "Счет: " + score;
+                    apples.Remove(apple);
+                    this.Controls.Remove(apple);
+                }
+            }
+        }
+
+        private void player_Click(object sender, EventArgs e)
+        {
+
+>>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241
         }
     }
 }

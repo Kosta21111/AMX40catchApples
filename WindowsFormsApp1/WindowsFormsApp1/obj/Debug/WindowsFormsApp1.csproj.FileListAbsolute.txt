@@ -8,7 +8,6 @@ C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Костя\Desktop\4\Яблоки\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-<<<<<<< HEAD
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Костя\Desktop\4\Яблоки (Update)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
@@ -110,5 +109,82 @@ C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\Win
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Костя\Desktop\4\Ловец малышей 1.2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-=======
->>>>>>> 156797dd79e8c7bb4c8189ca843f11a0c5de4241
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\GITHUB\Ловец малышей 1.3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form7.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\GITHUB\Ловец малышей 1.4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources

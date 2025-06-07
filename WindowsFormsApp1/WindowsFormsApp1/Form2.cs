@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.TaskbarClock;
 using System.Media;
 using NAudio.Wave;
+using System.IO;
+using System.Reflection.Emit;
 
 namespace WindowsFormsApp1
 {
@@ -35,8 +37,8 @@ namespace WindowsFormsApp1
 
         private SoundPlayer sound;
 
-        string[] achivki = new string[1] { "Заговорённый" };
-        bool[] achievement = new bool[1] { false };
+        string[] achivki = new string[3] { "Заговорённый", "Мастер танцпола", "Сердце ангела" };
+        bool[] achievement = new bool[3] { false, false, false };
 
         private int poterano_malyshej = 0;
 
@@ -72,7 +74,7 @@ namespace WindowsFormsApp1
 
             Random rand = new Random();
 
-            int malysh = rand.Next(0, 8);
+            int malysh = rand.Next(0, 11);
 
             if (malysh == 0)
             {
@@ -178,6 +180,45 @@ namespace WindowsFormsApp1
                 apples.Add(apple);
                 this.Controls.Add(apple);
             }
+            else if (malysh == 8)
+            {
+                var apple = new PictureBox
+                {
+                    Size = new Size(161, 87),
+                    BackColor = Color.Red,
+                    Location = new Point(random.Next(0, this.ClientSize.Width - 87), 0),
+
+                };
+                apple.Image = System.Drawing.Image.FromFile($"Ha-Go.jpg");
+                apples.Add(apple);
+                this.Controls.Add(apple);
+            }
+            else if (malysh == 9)
+            {
+                var apple = new PictureBox
+                {
+                    Size = new Size(192, 101),
+                    BackColor = Color.Red,
+                    Location = new Point(random.Next(0, this.ClientSize.Width - 101), 0),
+
+                };
+                apple.Image = System.Drawing.Image.FromFile($"Kolohousenka.jpg");
+                apples.Add(apple);
+                this.Controls.Add(apple);
+            }
+            else if (malysh == 10)
+            {
+                var apple = new PictureBox
+                {
+                    Size = new Size(178, 96),
+                    BackColor = Color.Red,
+                    Location = new Point(random.Next(0, this.ClientSize.Width - 96), 0),
+
+                };
+                apple.Image = System.Drawing.Image.FromFile($"VAE Type B.jpg");
+                apples.Add(apple);
+                this.Controls.Add(apple);
+            }
         }
 
         private void SpawnBomb()
@@ -240,12 +281,39 @@ namespace WindowsFormsApp1
                 sound = new SoundPlayer("Victory.wav");
                 sound.Play(); // PlaySync() — если нужно ждать окончания
 
-                
+                int count = System.IO.File.ReadAllLines("Статистика.txt").Length; // длина временного ряда
+                StreamReader Leicht = new StreamReader("Статистика.txt");
+
+                string[] xarakt = new string[count];
+
+                for (int i = 0; i < count; i++)
+                {
+                    xarakt[i] = Leicht.ReadLine();
+                }                
+
+                Leicht.Close();
+
+                int spaseno = score + Convert.ToInt32(xarakt[0]);
+                int destroyed = poterano_malyshej + Convert.ToInt32(xarakt[1]);
+                int dang = Dangerous_Rescue + Convert.ToInt32(xarakt[2]);
+
+                StreamWriter Sw = new StreamWriter("Статистика.txt");
+
+                Sw.WriteLine(spaseno);
+                Sw.WriteLine(destroyed);
+                Sw.WriteLine(dang);
+
+                Sw.Close();
+
+                if (score >= 125 && poterano_malyshej == 0)
+                {
+                    achievement[2] = true;
+                }
 
                 Form3 form = new Form3(poterano_malyshej, score, Dangerous_Rescue);
                 form.Show();
 
-                if (achievement[0])
+                if (achievement[0] || achievement[2])
                 {
                     Form4 form1 = new Form4(achievement);
                     form1.Show();
@@ -329,10 +397,6 @@ namespace WindowsFormsApp1
                 // Если яблоко упало за экран — удаляем
                 if (bomb.Top > this.ClientSize.Height)
                 {
-                    var explosion = new AudioFileReader("Взрыв.wav");
-                    var waveOut2 = new WaveOutEvent();
-                    waveOut2.Init(explosion);
-                    waveOut2.Play();
 
                     bombs.Remove(bomb);
                     this.Controls.Remove(bomb);
@@ -397,6 +461,35 @@ namespace WindowsFormsApp1
                 sound = new SoundPlayer("Defeat.wav");
                 sound.Play(); // PlaySync() — если нужно ждать окончания
                 MessageBox.Show("Вы проиграли! Вы не уберегли малышей от беды! Как вы будете смотреть в глаза их родителям?!");
+
+                int count = System.IO.File.ReadAllLines("Статистика.txt").Length; // длина временного ряда
+                StreamReader Leicht = new StreamReader("Статистика.txt");
+
+                string[] xarakt = new string[count];
+
+                for (int i = 0; i < count; i++)
+                {
+                    xarakt[i] = Leicht.ReadLine();
+                }
+
+                Leicht.Close();
+
+                int spaseno = score + Convert.ToInt32(xarakt[0]);
+                int destroyed = poterano_malyshej + Convert.ToInt32(xarakt[1]);
+                int dang = Dangerous_Rescue + Convert.ToInt32(xarakt[2]);
+
+                StreamWriter Sw = new StreamWriter("Статистика.txt");
+
+                Sw.WriteLine(spaseno);
+                Sw.WriteLine(destroyed);
+                Sw.WriteLine(dang);
+
+                Sw.Close();
+
+                Form9 form = new Form9();
+                form.Show();
+
+                this.Close();
             }
         }
 
@@ -420,7 +513,7 @@ namespace WindowsFormsApp1
                     int bombY = bombLocation.Y + 29;
 
                     // Проверяем расстояние и временное окно
-                    if (Math.Sqrt((bombY - appleY) * (bombY - appleY) + (bombX - appleX) * (bombX - appleX)) <= 100 && apple.Bounds.IntersectsWith(player.Bounds))
+                    if (Math.Sqrt((bombY - appleY) * (bombY - appleY) + (bombX - appleX) * (bombX - appleX)) <= 130 && apple.Bounds.IntersectsWith(player.Bounds))
                     {
                         return true;
                     }

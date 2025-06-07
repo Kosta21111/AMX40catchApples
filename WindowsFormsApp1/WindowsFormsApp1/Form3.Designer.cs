@@ -120,7 +120,7 @@
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label6.Location = new System.Drawing.Point(1091, 142);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(29, 39);
+            this.label6.Size = new System.Drawing.Size(29, 38);
             this.label6.TabIndex = 7;
             this.label6.Text = "-";
             // 
@@ -130,7 +130,7 @@
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label7.Location = new System.Drawing.Point(1091, 264);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(29, 39);
+            this.label7.Size = new System.Drawing.Size(29, 38);
             this.label7.TabIndex = 8;
             this.label7.Text = "-";
             // 
@@ -140,7 +140,7 @@
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label8.Location = new System.Drawing.Point(1091, 385);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(29, 39);
+            this.label8.Size = new System.Drawing.Size(29, 38);
             this.label8.TabIndex = 9;
             this.label8.Text = "-";
             // 
@@ -160,7 +160,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "Итоги боя";
             this.Load += new System.EventHandler(this.Form3_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
